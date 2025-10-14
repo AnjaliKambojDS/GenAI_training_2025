@@ -1,0 +1,12 @@
+{
+  "company_name": "Google",
+  "stock_code": "GOOG",
+  "newsdesc": "Google announced a new AI service today",
+  "sentiment": "Positive",
+  "people_names": ["Sundar Pichai", "Larry Page"],
+  "places_names": ["Mountain View"],
+  "other_companies_referred": ["Microsoft"],
+  "related_industries": ["Technology", "AI"],
+  "market_implications": "Stock prices expected to rise",
+  "confidence_score": 0.95
+}
