@@ -1,0 +1,39 @@
+Input: “I’ve completed the ‘Python Programming for Data Science’ course and enjoy data visualization. What should I take next?”
+Recommended Courses:
+	1. Advanced Data Visualization with Python
+	2. Applied Machine Learning with Python
+	3. Data Wrangling and Feature Engineering
+	4. Interactive Dashboards with Plotly and Dash
+	5. Exploratory Data Analysis with Pandas
+
+Input: “I know Azure basics and want to manage containers and build CI/CD pipelines. Recommend courses.”
+Recommended Courses:
+	1. Microsoft Azure Kubernetes Service (AKS) Fundamentals
+	2. Container Orchestration with Kubernetes on Azure
+	3. DevOps Pipeline with Azure DevOps and YAML
+	4. Building CI/CD Pipelines in Azure
+	5. Infrastructure as Code with Terraform on Azure
+
+Input: “My background is in ML fundamentals; I’d like to specialize in neural networks and production workflows.”
+Recommended Courses:
+	1. Deep Learning Specialization with TensorFlow
+	2. Neural Network Architectures and Applications
+	3. ML Model Deployment and Production Pipelines
+	4. Advanced Topics in Machine Learning
+	5. Scalable AI with Kubeflow and TensorFlow Extended
+
+Input: “I want to learn to build and deploy microservices with Kubernetes—what courses fit best?”
+Recommended Courses:
+	1. Kubernetes for Developers: Microservices with K8s
+	2. Building Scalable Microservices with Docker and Kubernetes
+	3. Service Mesh and API Gateway with Istio
+	4. Deploying and Monitoring Microservices in Kubernetes
+	5. Cloud Native DevOps with Kubernetes and Helm
+
+Input: “I’m interested in blockchain and smart contracts but have no prior experience. Which courses do you suggest?”
+Recommended Courses:
+	1. Blockchain Basics for Beginners
+	2. Introduction to Smart Contracts with Solidity
+	3. Ethereum Development Fundamentals
+	4. Build Your First Decentralized Application (DApp)
+	5. Cryptography and Security Principles for Blockchain
