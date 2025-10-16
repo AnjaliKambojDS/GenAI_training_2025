@@ -1,12 +1,13 @@
+
 {
-  "company_name": "Google",
-  "stock_code": "GOOG",
-  "newsdesc": "Google announced a new AI service today",
-  "sentiment": "Positive",
-  "people_names": ["Sundar Pichai", "Larry Page"],
-  "places_names": ["Mountain View"],
-  "other_companies_referred": ["Microsoft"],
-  "related_industries": ["Technology", "AI"],
-  "market_implications": "Stock prices expected to rise",
-  "confidence_score": 0.95
+"company_name": "Alphabet Inc.",
+"stock_code": "GOOG",
+"newsdesc": "Recent news highlights that US stock futures slipped due to concerns about the semiconductor industry affected by tariff uncertainties impacting tech stocks. Market data and stock market news remain updated, focusing on the financial and trading aspects relevant to Alphabet and the broader tech sector. Google's financial strength is underscored by its real-time market quotes and analytics, aiding investors' decisions amid volatile market conditions.",
+"sentiment": "Neutral",
+"people_names": ["Sundar Pichai"],
+"places_names": ["Mountain View", "US"],
+"other_companies_referred": ["ProShares Ultra Semiconductors"],
+"related_industries": ["Semiconductor Industry", "Technology Services", "Internet Software/Services"],
+"market_implications": "Tariff-related uncertainties in the semiconductor industry could pose headwinds for tech stocks including Alphabet, potentially impacting stock price volatility. Investors are advised to monitor semiconductor sector developments closely as they could influence market performance.",
+"confidence_score": 0.85
 }
